@@ -4,6 +4,8 @@ html {
 
 body {
   background-image: url(https://cdn.wallpapersafari.com/26/45/dMmOiA.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: rgb(244, 205, 96);
 }
 
@@ -36,7 +38,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.love::after {
+.footer-quote::after {
   content: "Vanessa";
 }
 
